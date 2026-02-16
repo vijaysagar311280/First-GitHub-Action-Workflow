@@ -4,7 +4,7 @@ on:
     branch: [ main ]
 
     Jobs:
-        Demo:
+        demo:
             runs-on: ubuntu-latest
 
             steps:
