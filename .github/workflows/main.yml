@@ -9,4 +9,4 @@ on:
 
             steps:
             -name: Greetings
-             run: echo " Hello From "
+             run: echo " Hello From  "
